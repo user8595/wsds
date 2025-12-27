@@ -7,3 +7,4 @@ Simple input overlay to use with the [input-overlay](https://github.com/univrsal
 ## TODO
 
 * Add FPS/Minecraft Layout?
+* Add mouse side buttons
