@@ -1,0 +1,155 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 0,
+    "overlay_width": 1212,
+    "overlay_height": 593,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                198,
+                0
+            ],
+            "id": "W",
+            "z_level": 0,
+            "mapping": [
+                22,
+                22,
+                179,
+                179
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                195
+            ],
+            "id": "A",
+            "z_level": "0",
+            "mapping": [
+                210,
+                22,
+                179,
+                179
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                198,
+                193
+            ],
+            "id": "S",
+            "z_level": "0",
+            "mapping": [
+                402,
+                22,
+                179,
+                179
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                392,
+                194
+            ],
+            "id": "D",
+            "z_level": "0",
+            "mapping": [
+                590,
+                22,
+                179,
+                179
+            ],
+            "code": 32
+        },
+        {
+            "type": 1,
+            "pos": [
+                644,
+                194
+            ],
+            "id": "J",
+            "z_level": 0,
+            "mapping": [
+                209,
+                389,
+                179,
+                178
+            ],
+            "code": 36
+        },
+        {
+            "type": 1,
+            "pos": [
+                838,
+                194
+            ],
+            "id": "K",
+            "z_level": 0,
+            "mapping": [
+                397,
+                388,
+                180,
+                179
+            ],
+            "code": 37
+        },
+        {
+            "type": 1,
+            "pos": [
+                1033,
+                194
+            ],
+            "id": "L",
+            "z_level": 0,
+            "mapping": [
+                589,
+                389,
+                179,
+                178
+            ],
+            "code": 38
+        },
+        {
+            "type": 1,
+            "pos": [
+                167,
+                414
+            ],
+            "id": "Space",
+            "z_level": "0",
+            "mapping": [
+                22,
+                756,
+                877,
+                179
+            ],
+            "code": 57
+        },
+        {
+            "type": 1,
+            "pos": [
+                838,
+                0
+            ],
+            "id": "I",
+            "z_level": "0",
+            "mapping": [
+                24,
+                389,
+                178,
+                178
+            ],
+            "code": 23
+        }
+    ]
+}

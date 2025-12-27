@@ -1,0 +1,74 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 8,
+    "overlay_width": 345,
+    "overlay_height": 587,
+    "elements": [
+        {
+            "type": 3,
+            "pos": [
+                0,
+                0
+            ],
+            "id": "LMB",
+            "z_level": "0",
+            "mapping": [
+                49,
+                22,
+                122,
+                178
+            ],
+            "code": 1
+        },
+        {
+            "type": 3,
+            "pos": [
+                149,
+                18
+            ],
+            "id": "MMB",
+            "z_level": 0,
+            "mapping": [
+                50,
+                386,
+                49,
+                142
+            ],
+            "code": 3
+        },
+        {
+            "type": 3,
+            "pos": [
+                223,
+                0
+            ],
+            "id": "RMB",
+            "z_level": "0",
+            "mapping": [
+                49,
+                22,
+                122,
+                178
+            ],
+            "code": 2
+        },
+        {
+            "type": 0,
+            "pos": [
+                0,
+                201
+            ],
+            "id": "Mouse",
+            "z_level": 0,
+            "mapping": [
+                196,
+                22,
+                341,
+                386
+            ]
+        }
+    ]
+}

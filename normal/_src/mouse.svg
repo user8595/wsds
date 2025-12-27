@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="573.18695"
+   height="721.67004"
+   viewBox="0 0 151.65571 190.94187"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="mouse.svg"
+   inkscape:export-filename="..\..\outline\wsds - mouse only\texture-1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.32195348"
+     inkscape:cx="218.97574"
+     inkscape:cy="380.48975"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-192.30263)">
+    <rect
+       style="fill:#1a1a1a;fill-opacity:0.5;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1-1-4-8"
+       width="30.182337"
+       height="45.508331"
+       x="206.29895"
+       y="-52.079166"
+       ry="4.5212693"
+       transform="scale(1,-1)"
+       rx="4.5212693" />
+    <rect
+       style="fill:#ff860e;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-1-4-8-8"
+       width="30.182337"
+       height="45.508331"
+       x="206.29895"
+       y="-99.96875"
+       ry="4.5212693"
+       transform="scale(1,-1)"
+       rx="4.5212693" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:0.9;font-family:Figtree;-inkscape-font-specification:'Figtree Bold';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:3.42199;stroke-linecap:round;stroke-linejoin:round"
+       x="220.98514"
+       y="84.129036"
+       id="text1-2-6-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan1-4-1-4-11"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Figtree;-inkscape-font-specification:'Figtree Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3.42199"
+         x="220.98514"
+         y="84.129036" /></text>
+    <rect
+       style="fill:#1a1a1a;fill-opacity:0.5;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1-1-4-8-1"
+       width="11.280278"
+       height="35.754112"
+       x="206.37132"
+       y="-138.44562"
+       ry="3.5521841"
+       transform="scale(1,-1)"
+       rx="3.5521841" />
+    <rect
+       style="fill:#ff860e;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-1-4-8-1-2"
+       width="11.280278"
+       height="35.754112"
+       x="206.37132"
+       y="-176.79475"
+       ry="3.5521841"
+       transform="scale(1,-1)"
+       rx="3.5521841" />
+    <rect
+       style="fill:#1a1a1a;fill-opacity:0.5;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1-1-4-8-1-2-4-6"
+       width="88.837608"
+       height="100.51984"
+       x="244.84749"
+       y="-107.09067"
+       ry="9.9866819"
+       transform="scale(1,-1)"
+       rx="9.9866819" />
+  </g>
+</svg>
