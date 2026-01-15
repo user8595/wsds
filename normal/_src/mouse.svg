@@ -7,9 +7,9 @@
    viewBox="0 0 151.65571 190.94187"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="mouse.svg"
-   inkscape:export-filename="..\..\outline\wsds - mouse only\texture-1.png"
+   inkscape:export-filename="..\mouse only\texture.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.32195348"
-     inkscape:cx="218.97574"
-     inkscape:cy="380.48975"
+     inkscape:zoom="0.64390696"
+     inkscape:cx="274.10792"
+     inkscape:cy="381.26626"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -104,5 +104,15 @@
        ry="9.9866819"
        transform="scale(1,-1)"
        rx="9.9866819" />
+    <path
+       id="rect1-1-4-8-1-1"
+       style="fill:#ff860e;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 230.80027,162.55641 c -2.01997,0 -3.64622,-1.22095 -3.64622,-2.73751 v -22.07894 c 0,-1.51656 1.62625,-2.7375 3.64622,-2.7375 h 2.1435 v 27.55395 z"
+       sodipodi:nodetypes="ssssccs" />
+    <path
+       id="rect1-1-4-8-1-1-2"
+       style="fill:#1a1a1a;fill-opacity:0.5;stroke:none;stroke-width:1.3341;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 230.80027,132.78866 c -2.01997,0 -3.64622,-1.22096 -3.64622,-2.73752 v -22.07893 c 0,-1.51656 1.62625,-2.73752 3.64622,-2.73752 h 2.1435 v 27.55397 z"
+       sodipodi:nodetypes="ssssccs" />
   </g>
 </svg>
